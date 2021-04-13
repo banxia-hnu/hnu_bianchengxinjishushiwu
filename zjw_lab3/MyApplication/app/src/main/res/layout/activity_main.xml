@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="1dp"
+        android:layout_marginRight="1dp"
+        android:layout_marginBottom="1dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:ems="10"
+            android:focusableInTouchMode="false"
+            android:gravity="center"
+            android:hint="请拨打号码"
+            android:inputType="textPersonName"
+            android:textSize="20dp" />
+
+        <TableLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="12">
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/imageButton1"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="1"
+                    app:srcCompat="@drawable/n1" />
+
+                <ImageButton
+                    android:id="@+id/imageButton2"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="2"
+                    app:srcCompat="@drawable/n2" />
+
+
+                <ImageButton
+                    android:id="@+id/imageButton3"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="3"
+                    app:srcCompat="@drawable/n3" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/imageButton4"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="4"
+                    app:srcCompat="@drawable/n4" />
+
+                <ImageButton
+                    android:id="@+id/imageButton5"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="5"
+                    app:srcCompat="@drawable/n5" />
+
+                <ImageButton
+                    android:id="@+id/imageButton6"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="6"
+                    app:srcCompat="@drawable/n6" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/imageButton7"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="7"
+                    app:srcCompat="@drawable/n7" />
+
+                <ImageButton
+                    android:id="@+id/imageButton8"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="8"
+                    app:srcCompat="@drawable/n8" />
+
+                <ImageButton
+                    android:id="@+id/imageButton9"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="9"
+                    app:srcCompat="@drawable/n9" />
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/imageButton10"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="*"
+                    app:srcCompat="@drawable/star" />
+
+                <ImageButton
+                    android:id="@+id/imageButton11"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="0"
+                    app:srcCompat="@drawable/n0" />
+
+                <ImageButton
+                    android:id="@+id/imageButton12"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="#"
+                    app:srcCompat="@drawable/sharp" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="fill_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" >
+
+                <ImageButton
+                    android:id="@+id/imageButton13"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="click"
+                    android:tag="+"
+                    app:srcCompat="@drawable/add_n" />
+
+                <ImageButton
+                    android:id="@+id/imageButton14"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="dial"
+                    android:tag="dial"
+                    app:srcCompat="@drawable/dialpad" />
+
+                <ImageButton
+                    android:id="@+id/imageButton15"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_alibuybutton"
+                    android:onClick="del"
+                    android:tag="del"
+                    app:srcCompat="@drawable/delete_n" />
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

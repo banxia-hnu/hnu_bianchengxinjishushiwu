@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="server:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1f4dfc4-e0a6-4565-8d21-66d912c53a42" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lab4" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1lKGAtGEt4NXRJGJY8usfHa0c2C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="HM856L8DIVNBHULV" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-01-04T06:50:51.002310700Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/360MoveData/Users/Windows User/Desktop/大学/大三上学期/编程新技术实验/New-Programming-Technology-Practice-master/lab4" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15158637" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.XML" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="service.Impl" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="service.Impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\andriodproject\Lab4\server\src" />
+      <recent name="F:\andriodproject\Lab4\server" />
+      <recent name="F:\andriodproject\Lab4" />
+      <recent name="F:\andriodproject\Lab4\web" />
+      <recent name="F:\andriodproject\Lab4\app\src\main\java\com\example\lab4" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.example.lab4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\andriodproject\Lab4\app\src\main\res\drawable" />
+      <recent name="F:\andriodproject\Lab4\server1\web\WEB-INF" />
+      <recent name="F:\andriodproject\Lab4\server1\src" />
+      <recent name="F:\andriodproject\Lab4\server\web\WEB-INF\lib" />
+      <recent name="F:\andriodproject\Lab4\app\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab1.Lab1" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestDate" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有在 server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有在 server1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有在 server1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="server" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9.0.39" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.39" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/server_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="server:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/server_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Lab4_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59763" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="server:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Application.Lab1" />
+      <item itemvalue="Application.TestDate" />
+      <item itemvalue="JUnit.所有在 server" />
+      <item itemvalue="JUnit.所有在 server1" />
+      <item itemvalue="JUnit.所有在 server1 (1)" />
+      <item itemvalue="Tomcat Server.Tomcat 9.0.39" />
+      <item itemvalue="远程.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDate" />
+        <item itemvalue="Application.Lab1" />
+        <item itemvalue="JUnit.所有在 server" />
+        <item itemvalue="JUnit.所有在 server1 (1)" />
+        <item itemvalue="JUnit.所有在 server1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1f4dfc4-e0a6-4565-8d21-66d912c53a42" name="默认更改列表" comment="" />
+      <created>1607338228867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607338228867</updated>
+      <workItem from="1607338232784" duration="414000" />
+      <workItem from="1607432503677" duration="2205000" />
+      <workItem from="1608550031992" duration="5900000" />
+      <workItem from="1608556879988" duration="70000" />
+      <workItem from="1608557010277" duration="8750000" />
+      <workItem from="1608565792110" duration="1855000" />
+      <workItem from="1608611312886" duration="2595000" />
+      <workItem from="1608613950484" duration="17997000" />
+      <workItem from="1608649910733" duration="1102000" />
+      <workItem from="1608651028225" duration="3190000" />
+      <workItem from="1608722583770" duration="16971000" />
+      <workItem from="1608796033582" duration="7974000" />
+      <workItem from="1608808564822" duration="783000" />
+      <workItem from="1608809521799" duration="273000" />
+      <workItem from="1608880908313" duration="9261000" />
+      <workItem from="1609665934188" duration="823000" />
+      <workItem from="1609686638556" duration="5390000" />
+      <workItem from="1609742245896" duration="23292000" />
+      <workItem from="1609831646471" duration="6442000" />
+      <workItem from="1609858139814" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Notifications" timestamp="1608613521333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1608613521333" />
+    <state x="678" y="241" key="#app" timestamp="1608650771538">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="241" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1608650771538" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608796380199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608796380199" />
+    <state x="773" y="325" key="#com.intellij.ide.util.MemberChooser" timestamp="1608740886436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="325" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608740886436" />
+    <state x="690" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1608740292227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608740292227" />
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1608566328038">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608566328038" />
+    <state x="850" y="494" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1608562267860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="494" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608562267860" />
+    <state x="764" y="298" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1608567376488">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="298" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608567376488" />
+    <state x="686" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1608615221058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608615221058" />
+    <state x="782" y="378" width="355" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1609745412639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="378" width="355" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1609745412639" />
+    <state x="691" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608736981115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="691" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608736981115" />
+    <state x="711" y="342" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1608634041188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="711" y="342" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608634041188" />
+    <state x="552" y="178" width="816" height="778" key="#意向" timestamp="1608727743953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="778" key="#意向/0.0.1920.1040@0.0.1920.1040" timestamp="1608727743953" />
+    <state x="552" y="178" key="#插件" timestamp="1608612708326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#插件/0.0.1920.1040@0.0.1920.1040" timestamp="1608612708326" />
+    <state x="552" y="178" key="#自动导入" timestamp="1608881468709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#自动导入/0.0.1920.1040@0.0.1920.1040" timestamp="1608881468709" />
+    <state x="552" y="178" key="#项目结构" timestamp="1608614594167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1608614594167" />
+    <state x="813" y="332" key="AndroidCreateXmlResourceDialog" timestamp="1608553378157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="813" y="332" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608553378157" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1609832555823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609832555823" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1609843841430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609843841430" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1609843841430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609843841430" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1609843841430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609843841430" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1609843841430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609843841430" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1609769579680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609769579680" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1609769579680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609769579680" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1609769579680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609769579680" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1609769579680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609769579680" />
+    <state width="1293" height="281" key="GridCell.Tab.2.bottom" timestamp="1609693316707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="281" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609693316707" />
+    <state width="1293" height="281" key="GridCell.Tab.2.center" timestamp="1609693316707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="281" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609693316707" />
+    <state width="1293" height="281" key="GridCell.Tab.2.left" timestamp="1609693316706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="281" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609693316706" />
+    <state width="1293" height="281" key="GridCell.Tab.2.right" timestamp="1609693316707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1293" height="281" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609693316707" />
+    <state x="540" y="263" width="840" height="513" key="IDE.errors.dialog" timestamp="1609749315546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" width="840" height="513" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609749315546" />
+    <state x="0" y="78" width="1920" height="851" key="SettingsEditor" timestamp="1608886426847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="78" width="1920" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608886426847" />
+    <state x="367" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608628652826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="367" y="101" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608628652826" />
+    <state x="334" y="244" key="new project wizard" timestamp="1608886405559">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="244" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608886405559" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1608731153298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608731153298" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609768938385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609768938385" />
+  </component>
+</project>
